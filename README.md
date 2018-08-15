@@ -5,9 +5,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 <img src="https://image.ibb.co/mUrjy9/thumb_bigger_formation_angular_2.png" alt="Angular" width="80" height="80"/>
 
 ## Example
-![AngularPOC](https://preview.ibb.co/jeVDQp/bj5_EXB0_YY4.gif)
 
-Or this [This Link](http://g.recordit.co/bj5EXB0YY4.gif)
+Running GIF example - [Demo](http://g.recordit.co/bj5EXB0YY4.gif)
+
+![AngularPOC](https://preview.ibb.co/hvk2J9/2.jpg)
 
 ## Features
 
