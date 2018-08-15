@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
-<img src="https://image.ibb.co/mUrjy9/thumb_bigger_formation_angular_2.png" alt="Angular" width="130" height="130"/>
+<img src="https://image.ibb.co/mUrjy9/thumb_bigger_formation_angular_2.png" alt="Angular" width="80" height="80"/>
 
 ## Example
 
