@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
-![Angular](https://image.ibb.co/mUrjy9/thumb_bigger_formation_angular_2.png)
+<img src="https://image.ibb.co/mUrjy9/thumb_bigger_formation_angular_2.png" alt="Angular" width="130" height="130"/>
 
 ## Example
 
@@ -17,16 +17,13 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
   - Columns can sort data (Ascending/Descending order)
   - Local caching by both 'maxCachedItems' and 'expirationSecondsForItem' parameters.
   - Loading behavior.
-  
-private maxCachedItems = 5;  // Holds the max number of last results to cache
-  private expirationSecondsForItem = 10; // Holds the number of seconds to expire a cached item.
-  private cacheStore: CacheStore<PostItem[]>;
 
-## Development server
+## Running the app
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+First, run `npm install` in the root folder (to install all it's dependencies).
 
- 
+Then, Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. 
+Note: If this port is already taken, you can use `ng serve --port <port>` and configure another one instead.
 
 ## Further help
 
