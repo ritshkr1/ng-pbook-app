@@ -23,6 +23,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 First, run `npm install` in the root folder (to install all it's dependencies).
 
 Then, Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. 
+
 Note: If this port is already taken, you can use `ng serve --port <port>` and configure another one instead.
 
 ## That's it
