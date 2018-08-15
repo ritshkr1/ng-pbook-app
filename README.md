@@ -1,8 +1,6 @@
 # NgPbookApp | Angular 6 Search with data table POC
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
-
-<img src="https://image.ibb.co/mUrjy9/thumb_bigger_formation_angular_2.png" alt="Angular" width="80" height="80"/>
+<img src="https://image.ibb.co/mUrjy9/thumb_bigger_formation_angular_2.png" alt="Angular" width="80" height="80"/> This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
 ## Example
 
