@@ -1,0 +1,139 @@
+2018-07-14T14:28:43.732Z - info:   [36336] *** FOLDER: c:\MyProjects\ng-pbook-app ***
+2018-07-14T14:28:43.734Z - info:   [36336] VSTSVSCode/1.136.0 (VSCode 1.25.0; Windows_NT 10.0.15063; Node 7.9.0)
+2018-07-14T14:28:43.735Z - debug:  [36336] Looking for an External Context at c:\MyProjects\ng-pbook-app
+2018-07-14T14:28:43.735Z - debug:  [36336] No External Context at c:\MyProjects\ng-pbook-app
+2018-07-14T14:28:43.740Z - debug:  [36336] Looking for TFVC repository at c:\MyProjects\ng-pbook-app
+2018-07-14T14:28:43.741Z - debug:  [36336] TFVC Creating Tfvc object with localPath='undefined'
+2018-07-14T14:28:43.742Z - debug:  [36336] Using TFS proxy: 
+2018-07-14T14:28:43.742Z - debug:  [36336] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2018-07-14T14:28:43.743Z - debug:  [36336] TFVC Repository created with repositoryRootFolder='c:\MyProjects\ng-pbook-app'
+2018-07-14T14:28:43.744Z - debug:  [36336] TFVC Repository.CheckVersion
+2018-07-14T14:28:43.745Z - debug:  [36336] TFVC: tf add -noprompt -?
+2018-07-14T14:28:43.818Z - debug:  [36336] TFVC: spawned new process (duration: 72ms)
+2018-07-14T14:28:43.896Z - debug:  [36336] TFVC: spawned new process (duration: 77ms)
+2018-07-14T14:28:46.115Z - debug:  [36336] TFVC: add exit code: 0 (duration: 2369ms)
+2018-07-14T14:28:46.117Z - debug:  [36336] TFVC Minimum required version: 14.102.0
+2018-07-14T14:28:46.117Z - debug:  [36336] TFVC (TF.exe, TF.cmd) version: 15.129.27725.3
+2018-07-14T14:28:46.118Z - debug:  [36336] TFVC Repository.FindWorkspace with localPath='c:\MyProjects\ng-pbook-app'
+2018-07-14T14:28:46.119Z - debug:  [36336] TFVC: tf workfold -noprompt c:\MyProjects\ng-pbook-app
+2018-07-14T14:28:46.430Z - debug:  [36336] TFVC: spawned new process (duration: 310ms)
+2018-07-14T14:28:50.056Z - debug:  [36336] TFVC: workfold exit code: 100 (duration: 3937ms)
+2018-07-14T14:28:50.058Z - debug:  [36336] TFVC errors (via stderr): Unable to determine the workspace. You may be able to correct this by running 'tf workspaces /collection:TeamProjectCollectionUrl'.
+
+2018-07-14T14:28:50.059Z - error:  [36336] Execution of the TFVC command line failed unexpectedly.
+2018-07-16T07:58:08.009Z - info:   [30420] *** FOLDER: c:\MyProjects\ng-pbook-app ***
+2018-07-16T07:58:08.011Z - info:   [30420] VSTSVSCode/1.136.0 (VSCode 1.25.0; Windows_NT 10.0.15063; Node 7.9.0)
+2018-07-16T07:58:08.013Z - debug:  [30420] Looking for an External Context at c:\MyProjects\ng-pbook-app
+2018-07-16T07:58:08.013Z - debug:  [30420] No External Context at c:\MyProjects\ng-pbook-app
+2018-07-16T07:58:08.020Z - debug:  [30420] Looking for TFVC repository at c:\MyProjects\ng-pbook-app
+2018-07-16T07:58:08.022Z - debug:  [30420] TFVC Creating Tfvc object with localPath='undefined'
+2018-07-16T07:58:08.023Z - debug:  [30420] Using TFS proxy: 
+2018-07-16T07:58:08.023Z - debug:  [30420] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2018-07-16T07:58:08.024Z - debug:  [30420] TFVC Repository created with repositoryRootFolder='c:\MyProjects\ng-pbook-app'
+2018-07-16T07:58:08.025Z - debug:  [30420] TFVC Repository.CheckVersion
+2018-07-16T07:58:08.075Z - debug:  [30420] TFVC: tf add -noprompt -?
+2018-07-16T07:58:08.901Z - debug:  [30420] TFVC: spawned new process (duration: 824ms)
+2018-07-16T07:58:09.479Z - debug:  [30420] TFVC: spawned new process (duration: 578ms)
+2018-07-16T07:58:14.641Z - debug:  [30420] TFVC: add exit code: 0 (duration: 6565ms)
+2018-07-16T07:58:14.644Z - debug:  [30420] TFVC Minimum required version: 14.102.0
+2018-07-16T07:58:14.644Z - debug:  [30420] TFVC (TF.exe, TF.cmd) version: 15.129.27725.3
+2018-07-16T07:58:14.645Z - debug:  [30420] TFVC Repository.FindWorkspace with localPath='c:\MyProjects\ng-pbook-app'
+2018-07-16T07:58:14.646Z - debug:  [30420] TFVC: tf workfold -noprompt c:\MyProjects\ng-pbook-app
+2018-07-16T07:58:15.156Z - debug:  [30420] TFVC: spawned new process (duration: 510ms)
+2018-07-16T07:58:20.439Z - debug:  [30420] TFVC: workfold exit code: 100 (duration: 5793ms)
+2018-07-16T07:58:20.445Z - debug:  [30420] TFVC errors (via stderr): Unable to determine the workspace. You may be able to correct this by running 'tf workspaces /collection:TeamProjectCollectionUrl'.
+
+2018-07-16T07:58:20.447Z - error:  [30420] Execution of the TFVC command line failed unexpectedly.
+2018-07-17T05:50:26.613Z - info:   [16884] *** FOLDER: c:\MyProjects\ng-pbook-app ***
+2018-07-17T05:50:26.615Z - info:   [16884] VSTSVSCode/1.136.0 (VSCode 1.25.0; Windows_NT 10.0.15063; Node 7.9.0)
+2018-07-17T05:50:26.616Z - debug:  [16884] Looking for an External Context at c:\MyProjects\ng-pbook-app
+2018-07-17T05:50:26.616Z - debug:  [16884] No External Context at c:\MyProjects\ng-pbook-app
+2018-07-17T05:50:26.621Z - debug:  [16884] Looking for TFVC repository at c:\MyProjects\ng-pbook-app
+2018-07-17T05:50:26.622Z - debug:  [16884] TFVC Creating Tfvc object with localPath='undefined'
+2018-07-17T05:50:26.623Z - debug:  [16884] Using TFS proxy: 
+2018-07-17T05:50:26.623Z - debug:  [16884] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2018-07-17T05:50:26.623Z - debug:  [16884] TFVC Repository created with repositoryRootFolder='c:\MyProjects\ng-pbook-app'
+2018-07-17T05:50:26.625Z - debug:  [16884] TFVC Repository.CheckVersion
+2018-07-17T05:50:26.627Z - debug:  [16884] TFVC: tf add -noprompt -?
+2018-07-17T05:50:26.762Z - debug:  [16884] TFVC: spawned new process (duration: 134ms)
+2018-07-17T05:50:26.813Z - debug:  [16884] TFVC: spawned new process (duration: 51ms)
+2018-07-17T05:50:29.951Z - debug:  [16884] TFVC: add exit code: 0 (duration: 3324ms)
+2018-07-17T05:50:29.954Z - debug:  [16884] TFVC Minimum required version: 14.102.0
+2018-07-17T05:50:29.954Z - debug:  [16884] TFVC (TF.exe, TF.cmd) version: 15.129.27725.3
+2018-07-17T05:50:29.955Z - debug:  [16884] TFVC Repository.FindWorkspace with localPath='c:\MyProjects\ng-pbook-app'
+2018-07-17T05:50:29.956Z - debug:  [16884] TFVC: tf workfold -noprompt c:\MyProjects\ng-pbook-app
+2018-07-17T05:50:30.143Z - debug:  [16884] TFVC: spawned new process (duration: 187ms)
+2018-07-17T05:50:32.206Z - debug:  [16884] TFVC: workfold exit code: 100 (duration: 2250ms)
+2018-07-17T05:50:32.208Z - debug:  [16884] TFVC errors (via stderr): Unable to determine the workspace. You may be able to correct this by running 'tf workspaces /collection:TeamProjectCollectionUrl'.
+
+2018-07-17T05:50:32.209Z - error:  [16884] Execution of the TFVC command line failed unexpectedly.
+2018-07-17T05:50:53.854Z - info:   [19872] *** FOLDER: c:\MyProjects\ng-pbook-app ***
+2018-07-17T05:50:53.856Z - info:   [19872] VSTSVSCode/1.136.0 (VSCode 1.25.0; Windows_NT 10.0.15063; Node 7.9.0)
+2018-07-17T05:50:53.857Z - debug:  [19872] Looking for an External Context at c:\MyProjects\ng-pbook-app
+2018-07-17T05:50:53.857Z - debug:  [19872] No External Context at c:\MyProjects\ng-pbook-app
+2018-07-17T05:50:53.862Z - debug:  [19872] Looking for TFVC repository at c:\MyProjects\ng-pbook-app
+2018-07-17T05:50:53.862Z - debug:  [19872] TFVC Creating Tfvc object with localPath='undefined'
+2018-07-17T05:50:53.864Z - debug:  [19872] Using TFS proxy: 
+2018-07-17T05:50:53.864Z - debug:  [19872] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2018-07-17T05:50:53.865Z - debug:  [19872] TFVC Repository created with repositoryRootFolder='c:\MyProjects\ng-pbook-app'
+2018-07-17T05:50:53.866Z - debug:  [19872] TFVC Repository.CheckVersion
+2018-07-17T05:50:53.868Z - debug:  [19872] TFVC: tf add -noprompt -?
+2018-07-17T05:50:54.070Z - debug:  [19872] TFVC: spawned new process (duration: 201ms)
+2018-07-17T05:50:54.280Z - debug:  [19872] TFVC: spawned new process (duration: 209ms)
+2018-07-17T05:50:58.583Z - debug:  [19872] TFVC: add exit code: 0 (duration: 4715ms)
+2018-07-17T05:50:58.585Z - debug:  [19872] TFVC Minimum required version: 14.102.0
+2018-07-17T05:50:58.586Z - debug:  [19872] TFVC (TF.exe, TF.cmd) version: 15.129.27725.3
+2018-07-17T05:50:58.588Z - debug:  [19872] TFVC Repository.FindWorkspace with localPath='c:\MyProjects\ng-pbook-app'
+2018-07-17T05:50:58.589Z - debug:  [19872] TFVC: tf workfold -noprompt c:\MyProjects\ng-pbook-app
+2018-07-17T05:50:58.948Z - debug:  [19872] TFVC: spawned new process (duration: 359ms)
+2018-07-17T05:51:00.059Z - debug:  [19872] TFVC: workfold exit code: 100 (duration: 1470ms)
+2018-07-17T05:51:00.061Z - debug:  [19872] TFVC errors (via stderr): Unable to determine the workspace. You may be able to correct this by running 'tf workspaces /collection:TeamProjectCollectionUrl'.
+
+2018-07-17T05:51:00.062Z - error:  [19872] Execution of the TFVC command line failed unexpectedly.
+2018-07-17T05:52:58.888Z - info:   [19772] *** FOLDER: c:\MyProjects\ng-pbook-app ***
+2018-07-17T05:52:58.890Z - info:   [19772] VSTSVSCode/1.136.0 (VSCode 1.25.0; Windows_NT 10.0.15063; Node 7.9.0)
+2018-07-17T05:52:58.892Z - debug:  [19772] Looking for an External Context at c:\MyProjects\ng-pbook-app
+2018-07-17T05:52:58.892Z - debug:  [19772] No External Context at c:\MyProjects\ng-pbook-app
+2018-07-17T05:52:58.897Z - debug:  [19772] Looking for TFVC repository at c:\MyProjects\ng-pbook-app
+2018-07-17T05:52:58.897Z - debug:  [19772] TFVC Creating Tfvc object with localPath='undefined'
+2018-07-17T05:52:58.898Z - debug:  [19772] Using TFS proxy: 
+2018-07-17T05:52:58.898Z - debug:  [19772] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2018-07-17T05:52:58.899Z - debug:  [19772] TFVC Repository created with repositoryRootFolder='c:\MyProjects\ng-pbook-app'
+2018-07-17T05:52:58.900Z - debug:  [19772] TFVC Repository.CheckVersion
+2018-07-17T05:52:58.902Z - debug:  [19772] TFVC: tf add -noprompt -?
+2018-07-17T05:52:59.044Z - debug:  [19772] TFVC: spawned new process (duration: 139ms)
+2018-07-17T05:52:59.162Z - debug:  [19772] TFVC: spawned new process (duration: 118ms)
+2018-07-17T05:53:03.054Z - debug:  [19772] TFVC: add exit code: 0 (duration: 4151ms)
+2018-07-17T05:53:03.056Z - debug:  [19772] TFVC Minimum required version: 14.102.0
+2018-07-17T05:53:03.057Z - debug:  [19772] TFVC (TF.exe, TF.cmd) version: 15.129.27725.3
+2018-07-17T05:53:03.058Z - debug:  [19772] TFVC Repository.FindWorkspace with localPath='c:\MyProjects\ng-pbook-app'
+2018-07-17T05:53:03.059Z - debug:  [19772] TFVC: tf workfold -noprompt c:\MyProjects\ng-pbook-app
+2018-07-17T05:53:03.614Z - debug:  [19772] TFVC: spawned new process (duration: 554ms)
+2018-07-17T05:53:05.064Z - debug:  [19772] TFVC: workfold exit code: 100 (duration: 2005ms)
+2018-07-17T05:53:05.066Z - debug:  [19772] TFVC errors (via stderr): Unable to determine the workspace. You may be able to correct this by running 'tf workspaces /collection:TeamProjectCollectionUrl'.
+
+2018-07-17T05:53:05.067Z - error:  [19772] Execution of the TFVC command line failed unexpectedly.
+2018-07-22T05:02:56.401Z - info:   [19616] *** FOLDER: c:\MyProjects\ng-pbook-app ***
+2018-07-22T05:02:56.401Z - info:   [19616] VSTSVSCode/1.136.0 (VSCode 1.25.0; Windows_NT 10.0.15063; Node 7.9.0)
+2018-07-22T05:02:56.401Z - debug:  [19616] Looking for an External Context at c:\MyProjects\ng-pbook-app
+2018-07-22T05:02:56.401Z - debug:  [19616] No External Context at c:\MyProjects\ng-pbook-app
+2018-07-22T05:02:56.401Z - debug:  [19616] Looking for TFVC repository at c:\MyProjects\ng-pbook-app
+2018-07-22T05:02:56.401Z - debug:  [19616] TFVC Creating Tfvc object with localPath='undefined'
+2018-07-22T05:02:56.401Z - debug:  [19616] Using TFS proxy: 
+2018-07-22T05:02:56.401Z - debug:  [19616] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2018-07-22T05:02:56.401Z - debug:  [19616] TFVC Repository created with repositoryRootFolder='c:\MyProjects\ng-pbook-app'
+2018-07-22T05:02:56.417Z - debug:  [19616] TFVC Repository.CheckVersion
+2018-07-22T05:02:56.417Z - debug:  [19616] TFVC: tf add -noprompt -?
+2018-07-22T05:02:56.573Z - debug:  [19616] TFVC: spawned new process (duration: 156ms)
+2018-07-22T05:02:56.651Z - debug:  [19616] TFVC: spawned new process (duration: 78ms)
+2018-07-22T05:03:00.892Z - debug:  [19616] TFVC: add exit code: 0 (duration: 4475ms)
+2018-07-22T05:03:00.892Z - debug:  [19616] TFVC Minimum required version: 14.102.0
+2018-07-22T05:03:00.892Z - debug:  [19616] TFVC (TF.exe, TF.cmd) version: 15.129.27725.3
+2018-07-22T05:03:00.892Z - debug:  [19616] TFVC Repository.FindWorkspace with localPath='c:\MyProjects\ng-pbook-app'
+2018-07-22T05:03:00.892Z - debug:  [19616] TFVC: tf workfold -noprompt c:\MyProjects\ng-pbook-app
+2018-07-22T05:03:00.967Z - debug:  [19616] TFVC: spawned new process (duration: 75ms)
+2018-07-22T05:03:04.553Z - debug:  [19616] TFVC: workfold exit code: 100 (duration: 3661ms)
+2018-07-22T05:03:04.556Z - debug:  [19616] TFVC errors (via stderr): Unable to determine the workspace. You may be able to correct this by running 'tf workspaces /collection:TeamProjectCollectionUrl'.
+
+2018-07-22T05:03:04.557Z - error:  [19616] Execution of the TFVC command line failed unexpectedly.
+2018-08-15T17:38:34.101Z - error:  [16968] Execution of the TFVC command line failed unexpectedly.

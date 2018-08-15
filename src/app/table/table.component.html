@@ -1,0 +1,29 @@
+<div class="table-results">
+    <span class="counter pull-right"></span>
+    <span *ngIf="showLoader" class="loader"></span>
+
+    <table class="table table-hover table-bordered results" sortable-table (sorted)="onSorted($event)" >
+      <thead>
+        <tr>
+          <ng-template ngFor let-col [ngForOf]="columns">
+              <th sortable-column="{{col}}">
+                  {{col}}
+                </th>
+          </ng-template>
+        </tr>
+        <tr class="warning no-result" [hidden]="phonebook.length > 0 || showLoader">
+          <td colspan="5">
+            <i class="fa fa-warning"></i> {{noResultsText}} <strong>{{inputText}}</strong> 😞</td>
+        </tr>
+      </thead>
+      <tbody [hidden]="!phonebook">
+        <tr *ngFor="let pbItem of phonebook">
+          <td>{{pbItem.id}}</td>
+          <td><strong>{{pbItem.postId}}</strong></td>
+          <td>{{pbItem.name}}</td>
+          <td>{{pbItem.email}}</td>
+          <td>{{pbItem.body}}</td>
+        </tr>
+      </tbody>
+    </table>
+</div>
