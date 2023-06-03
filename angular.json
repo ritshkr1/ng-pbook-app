@@ -123,5 +123,8 @@
       }
     }
   },
-  "defaultProject": "ng-pbook-app"
+  "defaultProject": "ng-pbook-app",
+  "cli": {
+    "analytics": "0f6ca63e-72c7-4556-bda7-ffe571d00b92"
+  }
 }
